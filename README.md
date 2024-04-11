@@ -1,3 +1,3 @@
-#Cocoan Clone update
+# Cocoan Clone update
 
-CSS got so much better!
+Html and CSS are so much fun!
